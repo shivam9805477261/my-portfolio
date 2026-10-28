@@ -5,7 +5,7 @@ export const profile = {
   email: "shivam9805477261@gmail.com",
   github: "https://github.com/shivam9805477261",
   linkedin: "https://www.linkedin.com/in/shivam-choudhary-05bb26307",
-  resume: "/Shivam_Choudhary_Resume.pdf",
+  resume: "/Shivam_Chaudhary_Resume.pdf",
   photo: "/profile.jpg",
 };
 
