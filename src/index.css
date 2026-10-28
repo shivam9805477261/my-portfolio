@@ -1,0 +1,33 @@
+:root {
+  --ink: #101436;
+  --paper: #f4f6ff;
+  --blue: #2b3af7;
+  --sun: #ffd23f;
+  --mint: #38d9a9;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 72px;
+}
+
+body {
+  font-family: "Figtree", system-ui, sans-serif;
+  background: var(--paper);
+  color: var(--ink);
+  line-height: 1.6;
+}
+
+h1, h2, h3 {
+  font-family: "Bricolage Grotesque", system-ui, sans-serif;
+  line-height: 1.1;
+}
+
+a {
+  color: inherit;
+}
